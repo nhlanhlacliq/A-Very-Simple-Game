@@ -1,4 +1,4 @@
-# Level_1_-_Capstone-Project-2_-_A_Simple_Game
+# A Very Simple Game
 
 _A simple game created using pygame_
 
